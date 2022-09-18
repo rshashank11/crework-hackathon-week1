@@ -1,0 +1,35 @@
+
+button {
+    background: none;
+    border: none;
+    border-radius: 100%;;
+}
+
+.material-icons.start {
+    color: green;
+}
+
+.material-icons.pause {
+    color: red;
+}
+
+.material-icons.reset {
+    color: yellow;
+}
+
+.main-container {
+    margin: auto;
+    text-align: center;
+    width: 300px;
+    height: 150px;
+    background: lightcoral;
+}
+h1 {
+    margin: 0;
+}
+#dark-line {
+    background-color: rgba(0, 0, 0, 0.1);
+    height: 1px;
+    width: 100%;
+    margin: 0 10px 0 40px;
+}
